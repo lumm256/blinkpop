@@ -1,21 +1,21 @@
 <p align="center">
-  <a href="https://blinkpop.video"><img src="https://blinkpop.video/logo.svg" width="72" alt="BlinkPop logo"></a>
+  <a href="https://blinkpop.video/?utm_source=github&utm_medium=promo"><img src="https://blinkpop.video/logo.svg" width="72" alt="BlinkPop logo"></a>
 </p>
 
 <h1 align="center">BlinkPop</h1>
 
 <p align="center">
   <b>Turn one photo into this week's viral AI video.</b><br>
-  <a href="https://blinkpop.video">blinkpop.video</a> · <a href="https://www.tiktok.com/@blinkpop.video">TikTok</a>
+  <a href="https://blinkpop.video/?utm_source=github&utm_medium=promo">blinkpop.video</a> · <a href="https://www.tiktok.com/@blinkpop.video">TikTok</a>
 </p>
 
 <p align="center">
-  <a href="https://blinkpop.video"><img src="https://blinkpop.video/og.png" width="720" alt="BlinkPop: trending AI video effects from one photo"></a>
+  <a href="https://blinkpop.video/?utm_source=github&utm_medium=promo"><img src="https://blinkpop.video/og.png" width="720" alt="BlinkPop: trending AI video effects from one photo"></a>
 </p>
 
 ## What it is
 
-[BlinkPop](https://blinkpop.video) is an AI video effects site. Upload a photo, pick a trend, and get a 15-second vertical clip ready for TikTok, Reels or Shorts in a few minutes. No editing and no prompt writing.
+[BlinkPop](https://blinkpop.video/?utm_source=github&utm_medium=promo) is an AI video effects site. Upload a photo, pick a trend, and get a 15-second vertical clip ready for TikTok, Reels or Shorts in a few minutes. No editing and no prompt writing.
 
 AI video trends move fast. By the time most people find the right app, template and prompt, the trend is over. BlinkPop puts each new trend on its own page with the effect already tuned, so you only bring the photo.
 
@@ -51,7 +51,7 @@ New trends are added as they appear on TikTok.
 
 ## Links
 
-- Website: https://blinkpop.video
+- Website: https://blinkpop.video/?utm_source=github&utm_medium=promo
 - About: https://blinkpop.video/about
 - TikTok: https://www.tiktok.com/@blinkpop.video
 - Support: support@blinkpop.video
