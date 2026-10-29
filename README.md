@@ -30,6 +30,7 @@ AI video trends move fast. By the time most people find the right app, template 
 | | Effect | What you get |
 |---|---|---|
 | <img src="https://blinkpop.video/effects/flying-broom/demo.webp" width="96" alt="Flying Broom AI video"> | [Flying Broom](https://blinkpop.video/flying-broom-ai-video) | You or your pet ride a broom down the street and crash into a billboard. |
+| <img src="https://blinkpop.video/effects/tiny-desk/demo.webp" width="96" alt="Tiny Desk AI video"> | [Tiny Desk](https://blinkpop.video/tiny-desk-ai-video) | The "Outstanding" meme: you as the laughing singer, friends on sax and in the band (up to 5 photos). |
 | <img src="https://blinkpop.video/effects/ceiling-fan-transition/demo.webp" width="96" alt="Ceiling Fan Transition AI video"> | [Ceiling Fan Transition](https://blinkpop.video/ceiling-fan-transition-ai-video) | Top-down shot, every fan blade pass swaps the outfit (1–3 photos). |
 | <img src="https://blinkpop.video/effects/ai-arrest/demo.webp" width="96" alt="AI Arrest video"> | [AI Arrest](https://blinkpop.video/ai-arrest-video) | The "not bro getting arrested again" trend, for people and pets. |
 | <img src="https://blinkpop.video/effects/bulin-47/demo.webp" width="96" alt="Bulin 47 AI video"> | [Bulin 47](https://blinkpop.video/bulin-47-ai-video) | Star in the viral Bulin 47 freestyle. |
